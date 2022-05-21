@@ -1,0 +1,36 @@
+h1 {
+  background: tan;
+  font-size: 120%;
+}
+
+header {
+  text-align: center;
+  background: peachpuff; 
+}
+
+h1 {
+  color: lightcoral;
+}
+
+nav {
+  font-variant: small-caps;
+  font-size: 145%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: lightsalmon;
+  background: darkgoldenrod;
+}
+
+details {
+  font-style: italic;
+}
+
+summary {
+  font-style: normal;
+}
+
+footer {
+  background: peachpuff;
+}
