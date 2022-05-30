@@ -1,26 +1,38 @@
-h1 {
-  background: tan;
-  font-size: 120%;
+body {
+  background: #00ADB5;
+  font-size: 150%;
+  margin: 4%;
 }
 
 header {
   text-align: center;
-  background: peachpuff; 
+  background: #EEEEEE;
+  padding: 15px;
 }
 
 h1 {
-  color: lightcoral;
+  color: #FF5722;
+  font-size: 120%;
+  background: #EEEEEE;
 }
 
 nav {
   font-variant: small-caps;
   font-size: 145%;
   font-family: Arial, Helvetica, sans-serif;
+  color: #FF5722;
+}
+
+nav a {
+  display: inline-block;
+  width: 22%;
+  background: #FF5722;
+  color: #EEEEEE;
 }
 
 h2 {
-  color: lightsalmon;
-  background: darkgoldenrod;
+  color: #FF5722;
+  background: #EEEEEE;
 }
 
 details {
@@ -31,6 +43,24 @@ summary {
   font-style: normal;
 }
 
+.half {
+  color: #EEEEEE;
+  width: 45%;
+  display: inline-block;
+  float: left;
+  margin-right: 2%;
+}
+
 footer {
-  background: peachpuff;
+  background: #EEEEEE;
+  color: #FF5722;
+  clear: both;
+}
+
+img {
+  width: 125px;
+}
+
+.whole {
+  clear: both;
 }
